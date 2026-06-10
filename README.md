@@ -1,121 +1,104 @@
-# 🚀 300+ MERN Stack Coding Practices
+# 👋 Gursharan Singh
 
-> 🟣 Build. Break. Debug. Repeat. That’s how real developers are made.
-
-![MERN](https://img.shields.io/badge/MERN-Stack-00d1b2?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;React+%2B+Node+%2B+MongoDB;Building+Production+Ready+Apps" />
+</p>
 
 ---
 
-## 📌 Repository Overview
+## 👨‍💻 About Me
 
-This repository contains a **structured 300+ MERN Stack learning journey**, starting from frontend fundamentals to full-stack production-level applications.
+MERN Stack Developer focused on building scalable full-stack web applications.
 
----
-
-## 📊 Progress Overview
-
-```
-Completed: 2 / 300
-
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 0.67%
-```
-
-| Status | Count |
-|--------|------|
-| ✅ Completed | 2 |
-| ⏳ Remaining | 298 |
-| 🎯 Total | 300 |
+- 🚀 Full-stack MERN projects experience  
+- 🔐 JWT Authentication + RBAC systems  
+- ⚙️ REST API development  
+- 🍃 MongoDB schema design  
+- 🌐 Deployment using Vercel & Render  
 
 ---
 
-## 🗂️ Learning Structure
+## 🛠️ Tech Stack
 
-### 🌐 Part 01 — Web Fundamentals (React + Tailwind)
-- UI Components
-- Mini Apps
-- JavaScript Logic
-👉 `01_Web_Fundamentals`
+### 🚀 Skills Overview
 
----
-
-### ⚛️ Part 02 — React.js Advanced
-- Hooks Mastery
-- State Management
-- Performance Optimization
-👉 `02_React_JS`
+| Category | Technologies |
+|----------|-------------|
+| Frontend | ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| Backend | ![Node](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) |
+| Database | ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge) |
+| Auth | JWT · RBAC |
+| Tools | Git · GitHub · Postman · VS Code |
+| Deployment | Vercel · Render |
 
 ---
 
-### 🚂 Part 03 — Node.js & Express
-- REST APIs
-- Authentication
-- Middleware
-👉 `03_Node_Express`
+## 🚀 Featured Project
+
+### 🌐 Job Seekers Portal (Full Stack MERN)
+
+🔗 Live: https://job-seeker-prince.vercel.app  
+💻 GitHub: https://github.com/gursharansinghsood/Job-Seeker  
+
+**Key Features:**
+- 🔐 JWT Authentication  
+- 👥 Role-Based Access Control  
+- 🧾 15+ REST APIs  
+- 📊 Job application tracking system  
+- 🌐 Deployed on Vercel + Render  
 
 ---
 
-### 🍃 Part 04 — MongoDB & Mongoose
-- Schema Design
-- Database Operations
-- Aggregations
-👉 `04_MongoDB_Mongoose`
+## 💼 Internship Experience
+
+**MERN Stack Developer Intern**  
+Novem Controls, Mohali | Jan 2026 – Jun 2026  
+
+- Built MERN full-stack applications  
+- Developed secure authentication systems  
+- Designed REST APIs  
+- Worked on deployment & debugging  
 
 ---
 
-### 🚀 Part 05 — Full MERN Projects
-- Full Stack Applications
-- Production-Level Projects
-👉 `05_Full_MERN_Projects`
+## 🎓 Education
+
+| Qualification | Institute | Year | Details |
+|--------------|----------|------|--------|
+| B.Tech CSE | HPTU | 2022–2026 | CGPA: 7.0 / 10 |
+| 12th CBSE | MIA DAV Public School | 2022 | Science Stream |
+| 10th CBSE | MIA DAV Public School | 2020 | Basic Education |
 
 ---
 
-## 🌐 Highlight — Part 01 (Current Focus)
+## 🌍 Languages
 
-🟣 React + Tailwind based UI & logic building
-
-- Responsive Navbar
-- Dark Mode Toggle
-- Image Slider (Upcoming)
-- Todo App (Upcoming)
-
-👉 [Open Part 01 Folder](./01_Web_Fundamentals)
+| Language | Level |
+|---------|------|
+| Hindi | Native |
+| Punjabi | Native |
+| English | Professional |
 
 ---
 
-## 🏆 Goals of This Repository
+## 📊 GitHub Stats
 
-- 💡 Master MERN Stack step-by-step
-- 🧠 Build strong problem-solving skills
-- ⚛️ Become advanced React developer
-- 🚀 Build production-ready full-stack apps
-- 📁 Create strong GitHub portfolio
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gursharansinghsood&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 📈 Learning Strategy
-
-- 🟢 Easy → Build confidence
-- 🟡 Medium → Improve logic
-- 🔴 Hard → Real-world problem solving
-- 🟣 Expert → Production-level thinking
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharansinghsood&theme=tokyonight" />
+</p>
 
 ---
 
-## 💡 Developer Mindset
+## 🎯 Objective
 
-> 🟣 “Consistency beats intensity. Small progress every day = big results.”
+To become a professional Full-Stack Developer and build scalable real-world applications.
 
 ---
 
-## 🚀 Final Outcome
+## 💡 Quote
 
-After completing this repo, you will have:
-
-- Strong MERN fundamentals  
-- 300+ coding experiences  
-- Real project portfolio  
-- Job-ready skillset  
+> “Consistency + Clean Code = Professional Developer”
