@@ -1,194 +1,162 @@
 # 🚀 300+ MERN Stack Coding Practices
 
-> **Build. Break. Debug. Repeat. That's how Real Developers are Made.**
+> 🟣 Build. Break. Debug. Repeat. That's how real developers are made.
 
-A structured and self-paced coding journey covering the complete MERN stack — from web fundamentals to production-grade full-stack applications.
+![MERN](https://img.shields.io/badge/MERN-Stack-00d1b2?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
 ---
 
-## 📦 At a Glance
+## 📦 Overview
 
-| Metric                     | Count   |
-| -------------------------- | ------- |
-| 📝 **Total Practice Sets** | **300** |
-| 🟢 **Easy**                | **65**  |
-| 🟡 **Medium**              | **102** |
-| 🔴 **Hard**                | **92**  |
-| ⚡ **Expert**               | **41**  |
+A structured, hands-on MERN Stack learning journey with **300 coding practices** from fundamentals to full-stack production-ready applications.
 
 ---
 
 ## 🎯 Goal
 
-This repository is designed to strengthen problem-solving skills, frontend development, backend engineering, database design, and full-stack application development through hands-on practice.
+This repository helps you:
 
-Every practice set focuses on building real-world skills that can be applied in professional software development.
-
----
-
-## 🗂️ Practice Categories
-
-| Part | Topic                                    | Practice Sets |
-| ---- | ---------------------------------------- | ------------- |
-| 01   | 🌐 Web Fundamentals & Vanilla JavaScript | 75            |
-| 02   | ⚛️ React.js                              | 80            |
-| 03   | 🚂 Node.js & Express                     | 70            |
-| 04   | 🍃 MongoDB & Mongoose                    | 40            |
-| 05   | 🚀 Full MERN Stack Projects              | 35            |
-|      | **Total**                                | **300**       |
+- Strengthen JavaScript fundamentals
+- Master React development
+- Build backend APIs with Node & Express
+- Design MongoDB databases
+- Develop real-world MERN applications
+- Build a strong GitHub portfolio
 
 ---
 
-## 📂 Repository Structure
+## 📊 At a Glance
 
-```text
+| Metric | Count |
+|--------|------|
+| 🟢 Total Practices | 300 |
+| 🔵 Easy | 65 |
+| 🟡 Medium | 102 |
+| 🔴 Hard | 92 |
+| 🟣 Expert | 41 |
+
+---
+
+## 🗂️ Practice Breakdown
+
+| Part | Module | Sets | Level |
+|------|--------|------|------|
+| 🟢 01 | Web Fundamentals + JS | 75 | Easy |
+| 🔵 02 | React.js | 80 | Medium |
+| 🟡 03 | Node.js + Express | 70 | Medium |
+| 🔴 04 | MongoDB + Mongoose | 40 | Hard |
+| 🟣 05 | Full MERN Projects | 35 | Expert |
+
+---
+
+## 📁 Repository Structure
+
+```
 300-Coding-Practices
 │
-├── 01_Part_Web_Fundamentals_And_Vanilla_JavaScript
-│   │
+├── 01_Web_Fundamentals
 │   ├── 01_Responsive_Navbar
 │   ├── 02_Dark_Mode_Toggle
-│   ├── 03_Image_Slider
-│   ├── 04_Accordion_FAQ
-│   ├── ...
 │
-├── 02_Part_React_JS
-│   │
+├── 02_React_JS
 │   ├── 76_Counter_Component
 │   ├── 77_Toggle_Component
-│   ├── 78_Character_Counter
-│   ├── ...
 │
-├── 03_Part_Node_JS_And_Express
-│   │
-│   ├── 156_Basic_Express_Server
-│   ├── 157_REST_API_CRUD
-│   ├── ...
+├── 03_Node_Express
+│   ├── 156_REST_API
 │
-├── 04_Part_MongoDB_And_Mongoose
-│   │
+├── 04_MongoDB_Mongoose
 │   ├── 226_User_Schema
-│   ├── 227_Product_Schema
-│   ├── ...
 │
-├── 05_Part_Full_MERN_Projects
-│   │
-│   ├── 266_Fullstack_Todo_App
-│   ├── 267_Fullstack_Notes_App
-│   ├── ...
+├── 05_MERN_Projects
+│   ├── 266_Todo_App
 │
 └── README.md
 ```
 
 ---
 
-## 💡 Learning Approach
+## 📈 Progress Tracker
 
-* ✅ Solve **2–3 practice sets daily**
-* ✅ Commit every completed practice to GitHub
-* ✅ Follow the **Easy → Medium → Hard → Expert** progression
-* ✅ Understand concepts before writing code
-* ✅ Build projects by combining multiple practice sets
-* ✅ Focus on consistency over intensity
-* ✅ Treat debugging as part of the learning process
-
----
-
-## 📈 Progress
-
-```text
+```
 Progress: 2 / 300 (0.67%)
 
-[□□□□□□□□□□□□□□□□□□□□] 0.67%
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-| ✅ Completed | ⏳ Remaining | 🎯 Target |
-| ----------- | ----------- | --------- |
-| 2           | 298         | 300       |
+| Status | Count |
+|--------|------|
+| ✅ Completed | 2 |
+| ⏳ Remaining | 298 |
 
 ---
 
-## ✅ Completed Practice Sets
+## 🏁 Completed Tasks
 
-| #  | Practice                                               | Technologies                         | Difficulty |
-| -- | ------------------------------------------------------ | ------------------------------------ | ---------- |
-| 01 | Responsive Navbar with Hamburger Menu                  | React.js, Tailwind CSS, React Icons  | 🟢 Easy    |
-| 02 | Dark / Light Mode Toggle with localStorage Persistence | React.js, Tailwind CSS, localStorage | 🟢 Easy    |
-
----
-
-## 🛠️ Technologies Covered
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* Middleware
-* WebSockets
-
-### Database
-
-* MongoDB
-* Mongoose
-* Aggregation Pipelines
-* Query Optimization
-* Schema Design
-
-### Full Stack
-
-* MERN Stack Applications
-* Real-Time Applications
-* Authentication Systems
-* Production-Level Projects
-* Deployment & DevOps Fundamentals
+| # | Project | Tech | Level |
+|--|---------|------|------|
+| 01 | Responsive Navbar | React + Tailwind | Easy |
+| 02 | Dark Mode Toggle | React + localStorage | Easy |
 
 ---
 
-## 🏆 Expected Outcome
+## 🛠️ Tech Stack
 
-By completing all 300 practice sets, you will gain:
+### 🟦 Frontend
+HTML • CSS • JavaScript • React • Tailwind CSS
 
-* Strong JavaScript fundamentals
-* Advanced React development skills
-* Backend API development experience
-* Database design expertise
-* Real-world MERN stack experience
-* Multiple portfolio-ready projects
-* A public GitHub portfolio demonstrating consistent growth and learning
+### 🟩 Backend
+Node.js • Express.js • REST APIs • WebSockets
 
----
-
-## 📅 Study Roadmap
-
-| Phase   | Topics                                | Practice Sets |
-| ------- | ------------------------------------- | ------------- |
-| Phase 1 | Web Fundamentals & Vanilla JavaScript | P1 – P75      |
-| Phase 2 | React.js Development                  | P76 – P155    |
-| Phase 3 | Node.js & Express APIs                | P156 – P225   |
-| Phase 4 | MongoDB & Mongoose                    | P226 – P265   |
-| Phase 5 | Full MERN Stack Projects              | P266 – P300   |
+### 🟪 Database
+MongoDB • Mongoose • Aggregations • Schema Design
 
 ---
 
-## 🌟 Why This Repository?
+## 🧠 Learning Approach
 
-* Structured learning path from beginner to advanced
-* Covers the complete MERN ecosystem
-* Focus on practical implementation
-* Portfolio-oriented approach
-* Real-world project development
-* Consistent coding discipline
+- Solve 2–3 problems daily
+- Commit every solution on GitHub
+- Follow progression: Easy → Medium → Hard → Expert
+- Focus on understanding, not copying
+- Build mini projects using multiple concepts
+- Stay consistent
 
 ---
 
-> **"The expert in anything was once a beginner who refused to quit."** — Helen Hayes
+## 🏆 Expected Outcomes
+
+By completing this repository, you will gain:
+
+- Strong JavaScript fundamentals
+- Advanced React skills
+- Backend API development experience
+- Database design expertise
+- Real-world full-stack projects
+- Portfolio-ready GitHub profile
+
+---
+
+## 📅 Roadmap
+
+- 🟢 Phase 1 → Web Fundamentals
+- 🔵 Phase 2 → React.js
+- 🟡 Phase 3 → Node + Express
+- 🔴 Phase 4 → MongoDB
+- 🟣 Phase 5 → Full MERN Projects
+
+---
+
+## 🌟 Motivation
+
+> “The expert in anything was once a beginner who refused to quit.”
+
+---
+
+## 📌 Note
+
+This repository is designed for **consistent learning, not speed**. Focus on building daily discipline.
