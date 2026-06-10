@@ -1,135 +1,138 @@
-# 🌐 Part 01 — Web Fundamentals & Vanilla JavaScript
+# 🌐 Part 01 — Web Fundamentals (React + Tailwind CSS)
 
-> The foundation of every modern web application starts here.
+> 🟣 The foundation of modern frontend development using React.js and Tailwind CSS.
 
-This section contains **75 coding practice sets** focused on HTML, CSS, and JavaScript fundamentals. The goal is to build a strong understanding of UI development, DOM manipulation, browser APIs, problem-solving, and real-world frontend development concepts.
-
----
-
-## 📚 What You'll Learn
-
-### 🎨 UI Components
-
-Build reusable and responsive user interface components using HTML, CSS, and JavaScript.
-
-Examples:
-
-* Responsive Navbar
-* Dark Mode Toggle
-* Image Slider
-* Accordion FAQ
-* Card Grid Layout
-* Sticky Header
-* Tooltip Component
-* Progress Bar
-* Loading Spinner
-* Dropdown Menu
-* Tabs Component
-* Rating System
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 🔧 Apps & Utilities
+## 📦 Overview
 
-Develop practical mini-applications that improve JavaScript fundamentals and DOM manipulation skills.
+This section contains **75 React-based practice sets** focused on building real-world UI components and logic using:
 
-Examples:
-
-* Digital Clock
-* Stopwatch
-* Countdown Timer
-* Calculator
-* BMI Calculator
-* Password Generator
-* Word Counter
-* Color Picker
-* Unit Converter
-* Currency Converter
-* QR Code Generator
-* GitHub Profile Viewer
+- ⚛️ React.js (Functional Components + Hooks)
+- 🎨 Tailwind CSS (Utility-first styling)
+- 🧠 JavaScript logic & state management
+- 🔄 Component reusability
+- ⚡ Modern frontend workflows
 
 ---
 
-### 🧠 Logic & Advanced JavaScript
+## 🎯 What You'll Build
 
-Practice core JavaScript concepts and build interactive applications.
+### 🎨 UI Components (React + Tailwind)
 
-Examples:
-
-* Todo Application
-* Notes App
-* Expense Tracker
-* Budget Planner
-* Habit Tracker
-* Shopping Cart
-* Infinite Scroll
-* Debouncing
-* Throttling
-* Event Emitter
-* Memoization
-* Deep Clone Utility
-* Kanban Board
-* Quiz Application
-* Snake Game
-* Minesweeper
+- Responsive Navbar (with Hamburger Menu)
+- Dark / Light Mode Toggle
+- Image Slider / Carousel
+- Accordion FAQ Component
+- Card Grid Layout
+- Sticky Header
+- Tooltip Component
+- Progress Bar
+- Loading Spinner
+- Dropdown Menu
+- Tabs System
+- Rating Component
 
 ---
 
-## 📦 Practice Breakdown
+### 🔧 Mini Apps & Utilities
 
-| Category                       | Practice Sets |
-| ------------------------------ | ------------- |
-| 🎨 UI Components               | 20            |
-| 🔧 Apps & Utilities            | 25            |
-| 🧠 Logic & Advanced JavaScript | 30            |
-| **Total**                      | **75**        |
+- Digital Clock (React state updates)
+- Stopwatch
+- Countdown Timer
+- Calculator
+- BMI Calculator
+- Password Generator
+- Word Counter
+- Color Picker
+- Unit Converter
+- Currency Converter
+- QR Code Generator
+- GitHub Profile Viewer
 
 ---
 
-## 🎯 Learning Objectives
+### 🧠 Logic + Advanced React Concepts
+
+- Todo App (CRUD with state)
+- Notes App
+- Expense Tracker
+- Budget Planner
+- Habit Tracker
+- Shopping Cart (State management)
+- Infinite Scroll
+- Debouncing & Throttling
+- Event Handling Patterns
+- Memoization (useMemo / useCallback)
+- Deep Clone Utility logic
+- Kanban Board
+- Quiz Application
+- Snake Game
+- Minesweeper
+
+---
+
+## 📊 Practice Breakdown
+
+| Category | Sets |
+|----------|------|
+| 🎨 UI Components | 20 |
+| 🔧 Utilities & Apps | 25 |
+| 🧠 Advanced Logic | 30 |
+| **Total** | **75** |
+
+---
+
+## 🎯 Learning Outcomes
 
 By completing this section, you will:
 
-* Understand modern HTML5 semantics
-* Master CSS layouts and responsiveness
-* Improve JavaScript fundamentals
-* Learn DOM manipulation techniques
-* Work with browser APIs
-* Build reusable UI components
-* Develop problem-solving skills
-* Create real-world mini applications
+- Master React fundamentals (hooks + components)
+- Build modern UI using Tailwind CSS
+- Improve state management skills
+- Learn reusable component design
+- Strengthen JavaScript logic thinking
+- Build real-world frontend applications
+- Gain production-ready UI development experience
 
 ---
 
-## 📈 Progress
+## 📈 Progress Tracker
 
-```text
+```
 Completed: 2 / 75
 
-[■□□□□□□□□□□□□□□□□□□□] 2.67%
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 2.67%
 ```
 
-| ✅ Completed | ⏳ Remaining |
-| ----------- | ----------- |
-| 2           | 73          |
+| Status | Count |
+|--------|------|
+| ✅ Completed | 2 |
+| ⏳ Remaining | 73 |
 
 ---
 
-## ✅ Completed Practices
+## 🏁 Completed Projects
 
-| #  | Practice                                   | Difficulty |
-| -- | ------------------------------------------ | ---------- |
-| 01 | Responsive Navbar with Hamburger Menu      | 🟢 Easy    |
-| 02 | Dark / Light Mode Toggle with localStorage | 🟢 Easy    |
+| # | Project | Tech | Difficulty |
+|--|----------|------|------------|
+| 01 | Responsive Navbar (Hamburger Menu) | React + Tailwind | 🟢 Easy |
+| 02 | Dark/Light Mode Toggle (localStorage) | React + Tailwind | 🟢 Easy |
 
 ---
 
-## 🚀 Next Practice
+## 🚀 Next Up
 
 ```text
-#03 — Image Slider / Carousel with Auto-Play and Manual Navigation
+#03 — Image Slider / Carousel (React + Tailwind + Auto Play)
 ```
 
 ---
 
-> "Strong fundamentals create strong developers."
+## 💡 Developer Mindset
+
+> 🟣 “Consistency beats intensity. Build daily, improve daily.”
