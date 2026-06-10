@@ -1,6 +1,6 @@
 # 🚀 300+ MERN Stack Coding Practices
 
-> 🟣 Build. Break. Debug. Repeat. That's how real developers are made.
+> 🟣 Build. Break. Debug. Repeat. That’s how real developers are made.
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-00d1b2?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
@@ -10,153 +10,112 @@
 
 ---
 
-## 📦 Overview
+## 📌 Repository Overview
 
-A structured, hands-on MERN Stack learning journey with **300 coding practices** from fundamentals to full-stack production-ready applications.
-
----
-
-## 🎯 Goal
-
-This repository helps you:
-
-- Strengthen JavaScript fundamentals
-- Master React development
-- Build backend APIs with Node & Express
-- Design MongoDB databases
-- Develop real-world MERN applications
-- Build a strong GitHub portfolio
+This repository contains a **structured 300+ MERN Stack learning journey**, starting from frontend fundamentals to full-stack production-level applications.
 
 ---
 
-## 📊 At a Glance
-
-| Metric | Count |
-|--------|------|
-| 🟢 Total Practices | 300 |
-| 🔵 Easy | 65 |
-| 🟡 Medium | 102 |
-| 🔴 Hard | 92 |
-| 🟣 Expert | 41 |
-
----
-
-## 🗂️ Practice Breakdown
-
-| Part | Module | Sets | Level |
-|------|--------|------|------|
-| 🟢 01 | Web Fundamentals + JS | 75 | Easy |
-| 🔵 02 | React.js | 80 | Medium |
-| 🟡 03 | Node.js + Express | 70 | Medium |
-| 🔴 04 | MongoDB + Mongoose | 40 | Hard |
-| 🟣 05 | Full MERN Projects | 35 | Expert |
-
----
-
-## 📁 Repository Structure
+## 📊 Progress Overview
 
 ```
-300-Coding-Practices
-│
-├── 01_Web_Fundamentals
-│   ├── 01_Responsive_Navbar
-│   ├── 02_Dark_Mode_Toggle
-│
-├── 02_React_JS
-│   ├── 76_Counter_Component
-│   ├── 77_Toggle_Component
-│
-├── 03_Node_Express
-│   ├── 156_REST_API
-│
-├── 04_MongoDB_Mongoose
-│   ├── 226_User_Schema
-│
-├── 05_MERN_Projects
-│   ├── 266_Todo_App
-│
-└── README.md
-```
+Completed: 2 / 300
 
----
-
-## 📈 Progress Tracker
-
-```
-Progress: 2 / 300 (0.67%)
-
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 0.67%
 ```
 
 | Status | Count |
 |--------|------|
 | ✅ Completed | 2 |
 | ⏳ Remaining | 298 |
+| 🎯 Total | 300 |
 
 ---
 
-## 🏁 Completed Tasks
+## 🗂️ Learning Structure
 
-| # | Project | Tech | Level |
-|--|---------|------|------|
-| 01 | Responsive Navbar | React + Tailwind | Easy |
-| 02 | Dark Mode Toggle | React + localStorage | Easy |
-
----
-
-## 🛠️ Tech Stack
-
-### 🟦 Frontend
-HTML • CSS • JavaScript • React • Tailwind CSS
-
-### 🟩 Backend
-Node.js • Express.js • REST APIs • WebSockets
-
-### 🟪 Database
-MongoDB • Mongoose • Aggregations • Schema Design
+### 🌐 Part 01 — Web Fundamentals (React + Tailwind)
+- UI Components
+- Mini Apps
+- JavaScript Logic
+👉 `01_Web_Fundamentals`
 
 ---
 
-## 🧠 Learning Approach
-
-- Solve 2–3 problems daily
-- Commit every solution on GitHub
-- Follow progression: Easy → Medium → Hard → Expert
-- Focus on understanding, not copying
-- Build mini projects using multiple concepts
-- Stay consistent
+### ⚛️ Part 02 — React.js Advanced
+- Hooks Mastery
+- State Management
+- Performance Optimization
+👉 `02_React_JS`
 
 ---
 
-## 🏆 Expected Outcomes
-
-By completing this repository, you will gain:
-
-- Strong JavaScript fundamentals
-- Advanced React skills
-- Backend API development experience
-- Database design expertise
-- Real-world full-stack projects
-- Portfolio-ready GitHub profile
+### 🚂 Part 03 — Node.js & Express
+- REST APIs
+- Authentication
+- Middleware
+👉 `03_Node_Express`
 
 ---
 
-## 📅 Roadmap
-
-- 🟢 Phase 1 → Web Fundamentals
-- 🔵 Phase 2 → React.js
-- 🟡 Phase 3 → Node + Express
-- 🔴 Phase 4 → MongoDB
-- 🟣 Phase 5 → Full MERN Projects
+### 🍃 Part 04 — MongoDB & Mongoose
+- Schema Design
+- Database Operations
+- Aggregations
+👉 `04_MongoDB_Mongoose`
 
 ---
 
-## 🌟 Motivation
-
-> “The expert in anything was once a beginner who refused to quit.”
+### 🚀 Part 05 — Full MERN Projects
+- Full Stack Applications
+- Production-Level Projects
+👉 `05_Full_MERN_Projects`
 
 ---
 
-## 📌 Note
+## 🌐 Highlight — Part 01 (Current Focus)
 
-This repository is designed for **consistent learning, not speed**. Focus on building daily discipline.
+🟣 React + Tailwind based UI & logic building
+
+- Responsive Navbar
+- Dark Mode Toggle
+- Image Slider (Upcoming)
+- Todo App (Upcoming)
+
+👉 [Open Part 01 Folder](./01_Web_Fundamentals)
+
+---
+
+## 🏆 Goals of This Repository
+
+- 💡 Master MERN Stack step-by-step
+- 🧠 Build strong problem-solving skills
+- ⚛️ Become advanced React developer
+- 🚀 Build production-ready full-stack apps
+- 📁 Create strong GitHub portfolio
+
+---
+
+## 📈 Learning Strategy
+
+- 🟢 Easy → Build confidence
+- 🟡 Medium → Improve logic
+- 🔴 Hard → Real-world problem solving
+- 🟣 Expert → Production-level thinking
+
+---
+
+## 💡 Developer Mindset
+
+> 🟣 “Consistency beats intensity. Small progress every day = big results.”
+
+---
+
+## 🚀 Final Outcome
+
+After completing this repo, you will have:
+
+- Strong MERN fundamentals  
+- 300+ coding experiences  
+- Real project portfolio  
+- Job-ready skillset  
