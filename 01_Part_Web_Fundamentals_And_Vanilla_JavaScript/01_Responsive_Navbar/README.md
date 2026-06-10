@@ -2,67 +2,55 @@
 
 > A fully responsive navigation bar built with React and Tailwind CSS, featuring a hamburger menu for mobile devices and a clean desktop navigation experience.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive-Design-00C896?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🎯 Project Overview
 
-This practice focuses on building a modern responsive navigation system that adapts seamlessly across desktop, tablet, and mobile devices.
+This project focuses on building a **modern responsive navigation system** that adapts across desktop, tablet, and mobile devices.
 
-The project demonstrates responsive design principles, component-based architecture, state management, accessibility best practices, and mobile-first development.
+Key learning areas:
+- Responsive UI design principles  
+- React component-based architecture  
+- State management using hooks  
+- Mobile-first development approach  
+- Accessibility best practices  
 
 ---
 
 ## ✨ Features
 
-* ✅ Fully responsive navigation layout
-* ✅ Desktop navigation with inline menu items
-* ✅ Mobile-friendly hamburger menu
-* ✅ Full-screen mobile navigation overlay
-* ✅ Smooth menu open/close interactions
-* ✅ Reusable React component structure
-* ✅ Accessible navigation controls
-* ✅ Keyboard-friendly navigation
-* ✅ Modern UI built with Tailwind CSS
-
-## 🖼️ Screenshots
-
-### 🖥️ Desktop View
-
-<img src="./assets/01_output.png" alt="Desktop View" width="900">
+- ✅ Fully responsive navigation layout  
+- ✅ Desktop inline navigation menu  
+- ✅ Mobile hamburger menu toggle  
+- ✅ Full-screen mobile navigation overlay  
+- ✅ Smooth open/close transitions  
+- ✅ Reusable React components  
+- ✅ Keyboard accessible navigation  
+- ✅ Modern UI with Tailwind CSS  
 
 ---
-
-### 💻 Tablet View
-
-<img src="./assets/02_output.png" alt="Tablet View" width="700">
-
----
-
-### 📱 Mobile View (Menu Closed)
-
-<img src="./assets/03_output.png" alt="Mobile View Closed" width="350">
-
----
-
-### 📱 Mobile View (Menu Open)
-
-<img src="./assets/04_output.png" alt="Mobile View Open" width="350">
 
 ## 🚀 Getting Started
 
-### Install Dependencies
+### 📦 Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Start Development Server
+### ▶️ Run Development Server
 
 ```bash
 npm run dev
 ```
 
-Open:
+### 🌐 Open in Browser
 
 ```text
 http://localhost:5173
@@ -72,54 +60,53 @@ http://localhost:5173
 
 ## 🧩 Concepts Practiced
 
-### React
+### ⚛️ React
 
-* Functional Components
-* JSX
-* State Management (`useState`)
-* Conditional Rendering
-* Event Handling
+- Functional Components  
+- JSX Rendering  
+- useState Hook  
+- Conditional Rendering  
+- Event Handling  
 
-### Responsive Design
+### 🎨 Responsive Design
 
-* Mobile-First Development
-* Responsive Navigation
-* Flexbox Layout
-* Breakpoint-Based Design
+- Mobile-first approach  
+- Flexbox layout  
+- Breakpoints (Tailwind)  
+- Adaptive UI design  
 
-### Accessibility
+### ♿ Accessibility
 
-* `aria-expanded`
-* `aria-controls`
-* Keyboard Navigation
-* Focus Management
+- aria-expanded  
+- aria-controls  
+- Keyboard navigation support  
+- Focus-friendly UI  
 
 ---
 
 ## 📚 Learning Outcomes
 
-By completing this practice, I learned:
+By completing this project, I learned:
 
-* How responsive navigation systems work
-* Managing UI state using React
-* Building mobile-friendly interfaces
-* Implementing accessible navigation controls
-* Creating reusable UI components
-* Structuring React projects professionally
+- How responsive navigation systems work  
+- Managing UI state in React  
+- Building mobile-friendly interfaces  
+- Implementing accessible navigation  
+- Creating reusable UI components  
+- Structuring React projects professionally  
 
 ---
 
-## 🏁 Practice Information
+## 🏁 Practice Info
 
 | Property        | Value                     |
-| --------------- | ------------------------- |
-| Practice Number | 01                        |
-| Difficulty      | 🟢 Easy                   |
-| Category        | React.js                  |
-| Focus Area      | Responsive UI Development |
-| Status          | ✅ Completed               |
+|----------------|---------------------------|
+| Practice No.   | 01                        |
+| Difficulty     | 🟢 Easy                   |
+| Category       | React.js                  |
+| Focus Area     | Responsive UI Development |
+| Status         | ✅ Completed               |
 
 ---
 
-
-> Part of the **300-Coding-Practices** journey 🚀
+> 🟣 Part of the **300+ Coding Practices Journey**
