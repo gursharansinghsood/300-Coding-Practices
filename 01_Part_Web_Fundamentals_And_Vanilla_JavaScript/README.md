@@ -1,30 +1,33 @@
 # 🌐 Part 01 — Web Fundamentals (React + Tailwind CSS)
 
-> 🟣 The foundation of modern frontend development using React.js and Tailwind CSS.
+> 🟣 Modern frontend development with React.js and Tailwind CSS — building real-world UI + logic components.
 
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
 ## 📦 Overview
 
-This section contains **75 React-based practice sets** focused on building real-world UI components and logic using:
+This section contains **75 React-based practice sets** focused on real-world UI development and frontend logic building.
 
-- ⚛️ React.js (Functional Components + Hooks)
-- 🎨 Tailwind CSS (Utility-first styling)
-- 🧠 JavaScript logic & state management
-- 🔄 Component reusability
-- ⚡ Modern frontend workflows
+You will learn:
+- ⚛️ React.js fundamentals (hooks + components)
+- 🎨 Tailwind CSS styling system
+- 🧠 JavaScript logic & state handling
+- 🔄 Reusable component architecture
+- ⚡ Modern frontend development workflow
 
 ---
 
 ## 🎯 What You'll Build
 
-### 🎨 UI Components (React + Tailwind)
+### 🎨 UI Components
 
-- Responsive Navbar (with Hamburger Menu)
+- Responsive Navbar (Hamburger Menu)
 - Dark / Light Mode Toggle
 - Image Slider / Carousel
 - Accordion FAQ Component
@@ -41,7 +44,7 @@ This section contains **75 React-based practice sets** focused on building real-
 
 ### 🔧 Mini Apps & Utilities
 
-- Digital Clock (React state updates)
+- Digital Clock
 - Stopwatch
 - Countdown Timer
 - Calculator
@@ -56,19 +59,19 @@ This section contains **75 React-based practice sets** focused on building real-
 
 ---
 
-### 🧠 Logic + Advanced React Concepts
+### 🧠 Advanced JavaScript Logic
 
-- Todo App (CRUD with state)
+- Todo App (CRUD)
 - Notes App
 - Expense Tracker
 - Budget Planner
 - Habit Tracker
-- Shopping Cart (State management)
+- Shopping Cart (State Management)
 - Infinite Scroll
 - Debouncing & Throttling
 - Event Handling Patterns
-- Memoization (useMemo / useCallback)
-- Deep Clone Utility logic
+- useMemo / useCallback Optimization
+- Deep Clone Utility
 - Kanban Board
 - Quiz Application
 - Snake Game
@@ -78,12 +81,12 @@ This section contains **75 React-based practice sets** focused on building real-
 
 ## 📊 Practice Breakdown
 
-| Category | Sets |
-|----------|------|
-| 🎨 UI Components | 20 |
-| 🔧 Utilities & Apps | 25 |
-| 🧠 Advanced Logic | 30 |
-| **Total** | **75** |
+| Category            | Sets |
+|---------------------|------|
+| 🎨 UI Components    | 20   |
+| 🔧 Utilities & Apps | 25   |
+| 🧠 Advanced Logic   | 30   |
+| **Total**           | **75** |
 
 ---
 
@@ -91,13 +94,12 @@ This section contains **75 React-based practice sets** focused on building real-
 
 By completing this section, you will:
 
-- Master React fundamentals (hooks + components)
-- Build modern UI using Tailwind CSS
-- Improve state management skills
-- Learn reusable component design
-- Strengthen JavaScript logic thinking
-- Build real-world frontend applications
-- Gain production-ready UI development experience
+- Master React fundamentals  
+- Build modern UI using Tailwind CSS  
+- Improve JavaScript problem-solving skills  
+- Learn reusable component design  
+- Work with state management  
+- Build production-ready frontend apps  
 
 ---
 
@@ -109,19 +111,19 @@ Completed: 2 / 75
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 2.67%
 ```
 
-| Status | Count |
-|--------|------|
-| ✅ Completed | 2 |
-| ⏳ Remaining | 73 |
+| Status      | Count |
+|-------------|-------|
+| ✅ Completed | 2     |
+| ⏳ Remaining | 73    |
 
 ---
 
 ## 🏁 Completed Projects
 
-| # | Project | Tech | Difficulty |
-|--|----------|------|------------|
-| 01 | Responsive Navbar (Hamburger Menu) | React + Tailwind | 🟢 Easy |
-| 02 | Dark/Light Mode Toggle (localStorage) | React + Tailwind | 🟢 Easy |
+| #  | Project                               | Tech             | Difficulty |
+|----|--------------------------------------|------------------|------------|
+| 01 | Responsive Navbar (Hamburger Menu)   | React + Tailwind | 🟢 Easy    |
+| 02 | Dark/Light Mode Toggle (localStorage) | React + Tailwind | 🟢 Easy    |
 
 ---
 
